@@ -1,6 +1,6 @@
 What challenges did you face during this activity
 Trying to follow the instructions and getting them right.
  Which Git command was the most confusing?
-The command to create and enter a folder.
+The command in which I have to push my code and I encountered an error.
  How can version control help in real-world software development?
-
+Version control helps teams collaborate on code, track changes, and easily fix mistakes by keeping a history of all updates.
